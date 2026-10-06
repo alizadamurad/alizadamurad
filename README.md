@@ -1,4 +1,4 @@
-# Hi, I'm Ali Zada Murad 👋
+# Hi, I'm Alizada Murad 👋
 
 ### Flutter & Dart Developer | Building cross-platform apps
 
